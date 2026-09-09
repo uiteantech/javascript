@@ -1,0 +1,1 @@
+const status = isLoggedIn ? "Logged in" : "Guest";
